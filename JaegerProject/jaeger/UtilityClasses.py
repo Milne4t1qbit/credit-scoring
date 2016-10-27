@@ -1,17 +1,16 @@
 '''
-Created on Oct 26, 2016
-
-@author: ulysses
+Created on Oct 25, 2016. (c) 1QBit. 
+@author: Andrew Milne
 '''
 
-class MyClass(object):
+class UtilityClassOne(object):
     '''
     classdocs
     '''
-
 
     def __init__(self, params):
         '''
         Constructor
         '''
-        
+    #enddef
+#endclass
