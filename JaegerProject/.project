@@ -14,4 +14,11 @@
 	<natures>
 		<nature>org.python.pydev.pythonNature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>workspace-jupyter</name>
+			<type>2</type>
+			<location>/Users/ulysses/Documents/workspace-jupyter</location>
+		</link>
+	</linkedResources>
 </projectDescription>
