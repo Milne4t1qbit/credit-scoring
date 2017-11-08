@@ -1,1 +1,0 @@
-print "Initializing JaegerProject jaeger package"
