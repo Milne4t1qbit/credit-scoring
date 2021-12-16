@@ -6,7 +6,7 @@ Created on Dec. 16, 2021
 
 class pocus(object):
     '''
-    classdocs
+    CONFLICTING CLASS DOCS LINE ON BRANCH B
     '''
 
 
