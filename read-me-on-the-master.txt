@@ -1,0 +1,1 @@
+Added to the master branch after A was merged into B.
